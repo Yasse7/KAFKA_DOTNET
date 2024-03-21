@@ -38,8 +38,7 @@
               "RelativeToolTip": "Kafka_Employe_App\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T08:20:59.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T08:20:59.254Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Kafka_Employe_App\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\Kafka_Employe_App\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Kafka_Employe_App\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T08:02:12.549Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Kafka_Employe_App\\models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:21:00.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:21:00.616Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Kafka_Employe_App\\database\\EmployedbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:17:01.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:17:01.851Z"
             }
           ]
         }
