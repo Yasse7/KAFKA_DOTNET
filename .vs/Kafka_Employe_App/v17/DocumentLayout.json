@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6664B389-6BBE-413D-9DB4-3F7BD97938DF}|Kafka_Employe_App\\Kafka_Employe_App.csproj|c:\\users\\yassir.jerrari\\source\\repos\\kafka_employe_app\\kafka_employe_app\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6664B389-6BBE-413D-9DB4-3F7BD97938DF}|Kafka_Employe_App\\Kafka_Employe_App.csproj|solutionrelative:kafka_employe_app\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6664B389-6BBE-413D-9DB4-3F7BD97938DF}|Kafka_Employe_App\\Kafka_Employe_App.csproj|c:\\users\\yassir.jerrari\\source\\repos\\kafka_employe_app\\kafka_employe_app\\database\\employedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6664B389-6BBE-413D-9DB4-3F7BD97938DF}|Kafka_Employe_App\\Kafka_Employe_App.csproj|solutionrelative:kafka_employe_app\\database\\employedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6664B389-6BBE-413D-9DB4-3F7BD97938DF}|Kafka_Employe_App\\Kafka_Employe_App.csproj|c:\\users\\yassir.jerrari\\source\\repos\\kafka_employe_app\\kafka_employe_app\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6664B389-6BBE-413D-9DB4-3F7BD97938DF}|Kafka_Employe_App\\Kafka_Employe_App.csproj|solutionrelative:kafka_employe_app\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6664B389-6BBE-413D-9DB4-3F7BD97938DF}|Kafka_Employe_App\\Kafka_Employe_App.csproj|c:\\users\\yassir.jerrari\\source\\repos\\kafka_employe_app\\kafka_employe_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6664B389-6BBE-413D-9DB4-3F7BD97938DF}|Kafka_Employe_App\\Kafka_Employe_App.csproj|solutionrelative:kafka_employe_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\Kafka_Employe_App\\Program.cs",
+              "RelativeDocumentMoniker": "Kafka_Employe_App\\Program.cs",
+              "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\Kafka_Employe_App\\Program.cs",
+              "RelativeToolTip": "Kafka_Employe_App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:20:59.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\Kafka_Employe_App\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Kafka_Employe_App\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\Kafka_Employe_App\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Kafka_Employe_App\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:02:12.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\Kafka_Employe_App\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "Kafka_Employe_App\\models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\Kafka_Employe_App\\models\\Employee.cs",
+              "RelativeToolTip": "Kafka_Employe_App\\models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:21:00.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployedbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\Kafka_Employe_App\\database\\EmployedbContext.cs",
+              "RelativeDocumentMoniker": "Kafka_Employe_App\\database\\EmployedbContext.cs",
+              "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\Kafka_Employe_App\\Kafka_Employe_App\\database\\EmployedbContext.cs",
+              "RelativeToolTip": "Kafka_Employe_App\\database\\EmployedbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:17:01.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
